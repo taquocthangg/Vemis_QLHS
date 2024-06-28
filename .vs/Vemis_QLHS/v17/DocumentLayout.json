@@ -3,6 +3,334 @@
   "WorkspaceRootPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\thongtinsxdshescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\thongtinsxdshescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsxetlenloptruocthilairenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsxetlenloptruocthilairenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsxetlenlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsxetlenlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hstinhthuongdungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hstinhthuongdungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsthongbaonhapdiemchitietmonhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsthongbaonhapdiemchitietmonhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsthiduatapthescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsthiduatapthescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hssuckhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hssuckhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsphongthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsphongthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsphanlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsphanlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsnghihocdaihanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsnghihocdaihanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsngaytochuckythiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsngaytochuckythiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsmonhocsodaudiemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsmonhocsodaudiemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsmonhocnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsmonhocnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophoctinhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophoctinhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophocmonngoainguscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophocmonngoainguscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophocmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophocmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophocmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophocmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophocmonchuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophocmonchuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hslophocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hslophocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hskyluathocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hskyluathocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hskiemtramucphidonggopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hskiemtramucphidonggopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsmucphidonggopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsmucphidonggopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hskhoilopmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hskhoilopmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hskhoilopmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hskhoilopmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hskhenthuongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hskhenthuongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathilaimontinhdiemtieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathilaimontinhdiemtieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathilaimondanhgiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathilaimondanhgiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathilaimondanhgiatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathilaimondanhgiatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathilaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathilaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathikhaosatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathikhaosatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquathihocsinhgioiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquathihocsinhgioiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquarenluyenlaitronghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquarenluyenlaitronghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsketquamonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsketquamonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshososukienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshososukienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshosohocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshosohocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshopphuhuynhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshopphuhuynhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhsbdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhsbdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhphongthis1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhphongthis1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhnhomthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhmonmiengiamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhmonkhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhhoclucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhhoclucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhbothiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhbothiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhbanhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhbanhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshoclucmonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshoclucmonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocluchocsinhtruocthilairenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocluchocsinhtruocthilairenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshoatdonghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshoatdonghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshientaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshientaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshanhkiemtruocrenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshanhkiemtruocrenluyenlaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshanhkiemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshanhkiemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsgiatridiemdomonhockhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsgiatridiemdomonhockhuyenkhichescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsgiadinhhocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsgiadinhhocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdulieudiemthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdulieudiemthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdmkieuhienthitenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdmkieuhienthitenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemtuyensinhtrunghocphothongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemtuyensinhtrunghocphothongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemtrungbinhmonhockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemtrungbinhmonhockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemtrungbinhmondanhgiatrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemtrungbinhmondanhgiatrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemtrungbinhmondanhgiatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemtrungbinhmondanhgiatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemtongkethockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemtongkethockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemthinghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemthinghescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemthimontiengvietcuatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemthimontiengvietcuatieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemthimonlichsuvadialybactieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemthimonlichsuvadialybactieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemthimondanhgiabactrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemthimondanhgiabactrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdiemthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdiemthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdantocthuongdungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdantocthuongdungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdanhsachtuyensinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdanhsachtuyensinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdanhhieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdanhhieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdanhgiahanhkiemthuongxuyenbactieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdanhgiahanhkiemthuongxuyenbactieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdangkyonoitruscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdangkyonoitruscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdangkymonthilaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdangkymonthilaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsdangkylopchuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsdangkylopchuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hschuyentruongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hschuyentruongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hschuyenlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hschuyenlopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hschuyencanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hschuyencanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hschitietnghihocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hschitietnghihocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsbohocthoihocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsbohocthoihocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsbangdiemkiemtrathuongxuyenapdungchotieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsbangdiemkiemtrathuongxuyenapdungchotieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsbangdiemdanhgiathuongxuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsbangdiemdanhgiathuongxuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsbangdiemchitiethockymondanhgiabactrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsbangdiemchitiethockymondanhgiabactrentieuhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hshocsinhphongthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hshocsinhphongthiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\hsbangdiemchitiethockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\hsbangdiemchitiethockiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\vwdantoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\vwdantoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +363,991 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ThongTinSxdshesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:00:19.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:59:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HsXetLenLopsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:58:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HsTinhThuongDungsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:57:40.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HsThongBaoNhapDiemChiTietMonHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:56:46.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HsThiDuaTapThesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:55:51.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HsSucKhoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:55:08.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HsPhongThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:54:20.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HsPhanLopsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:53:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HsNhomThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:52:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HsNghiHocDaiHansController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:51:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HsNgayToChucKyThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:51:15.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HsMonHocSoDauDiemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:50:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HsMonHocNhomThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:49:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HsLopHocTinHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:48:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HsLopHocMonNgoaiNgusController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:47:54.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HsLopHocMonMienGiamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:47:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HsLopHocMonKhuyenKhichesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:46:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HsLopHocMonChuyensController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:45:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HsLopHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:44:46.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HsKyLuatHocSinhsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:44:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HsKiemTraMucPhiDongGopsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:43:10.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HsMucPhiDongGopsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:41:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HsKhoiLopMonMienGiamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:40:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HsKhoiLopMonKhuyenKhichesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:39:21.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HsKhenThuongsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:38:45.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:38:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HsKetQuaThiLaiMonDanhGiasController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:37:21.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:36:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HsKetQuaThiLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:35:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HsKetQuaThiKhaoSatsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:34:25.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HsKetQuaThiHocSinhGioisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:33:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HsKetQuaRenLuyenLaiTrongHesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:33:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HsKetQuaMonKhuyenKhichesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:32:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HsHoSoSuKiensController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:31:02.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HsHoSoHocSinhsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:30:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HsHopPhuHuynhsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:29:26.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HsHocSinhSbdsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:28:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HsHocSinhPhongThis1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:27:58.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HsHocSinhNhomThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:27:14.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HsHocSinhMonMienGiamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:26:35.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HsHocSinhMonKhuyenKhichesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:25:55.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HsHocSinhHocLucsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:24:09.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HsHocSinhBoThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:23:33.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HsHocSinhBanHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:22:55.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HsHocLucMonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:21:59.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:10:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HsHoatDongHesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:08:01.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HsHienTaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:07:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HsHanhKiemTruocRenLuyenLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:03:08.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HsHanhKiemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:01:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:00:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HsGiaDinhHocSinhsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:59:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HsDuLieuDiemThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:59:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HsDmkieuHienThiTensController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:57:04.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HsDiemTuyenSinhTrungHocPhoThongsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:55:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HsDiemTrungBinhMonHocKiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:54:31.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:53:01.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:48:50.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HsDiemTongKetHocKiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:43:52.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HsDiemThiNghesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:42:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HsDiemThiMonTiengVietCuaTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:41:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:40:39.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:39:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HsDiemThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:37:35.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HsDanTocThuongDungsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:34:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HsDanhSachTuyenSinhsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:33:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HsDanhHieuxController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:32:13.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:30:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HsDangKyOnoiTrusController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:26:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HsDangKyMonThiLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:13:22.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HsDangKyLopChuyensController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:12:26.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HsChuyenTruongsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:10:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HsChuyenLopsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:55:30.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HsChuyenCansController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:50:06.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HsChiTietNghiHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:49:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HsBoHocThoiHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:48:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:47:14.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HsBangDiemDanhGiaThuongXuyensController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:46:11.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:45:34.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "HsHocSinhPhongThisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:40:38.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "HsBangDiemChiTietHocKiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:38:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
               "Title": "VwDanTocController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\VwDanTocController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\VwDanTocController.cs",
@@ -42,12 +1355,11 @@
               "RelativeToolTip": "Vemis_QLHS\\Controllers\\VwDanTocController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T15:03:48.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T15:03:48.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 84,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\appsettings.json",
               "RelativeDocumentMoniker": "Vemis_QLHS\\appsettings.json",
@@ -59,7 +1371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 83,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Program.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Program.cs",
@@ -71,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 86,
               "Title": "DiemHocSinhDmChuyenCan.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Entities\\DiemHocSinhDmChuyenCan.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Entities\\DiemHocSinhDmChuyenCan.cs",
@@ -83,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 85,
               "Title": "DiemHocSinhDmChuyenCanController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\DiemHocSinhDmChuyenCanController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\DiemHocSinhDmChuyenCanController.cs",

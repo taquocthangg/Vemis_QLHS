@@ -251,3 +251,4 @@ C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\bin\Debug\net8.0\runtimes
 C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\Vemis_QLHS.sourcelink.json
