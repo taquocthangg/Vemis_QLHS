@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vemis_QLHS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dafbf51d2920a9a764893017096386edf48f29a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff908bf72c1d8a650e473ee2965551a09c21284")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vemis_QLHS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vemis_QLHS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

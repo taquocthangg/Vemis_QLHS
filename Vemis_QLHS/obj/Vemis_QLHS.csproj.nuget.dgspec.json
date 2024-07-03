@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJECT_EPU\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj": {}
+    "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj": {}
   },
   "projects": {
-    "C:\\PROJECT_EPU\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj": {
+    "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJECT_EPU\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
+        "projectUniqueName": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
         "projectName": "Vemis_QLHS",
-        "projectPath": "C:\\PROJECT_EPU\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
-        "packagesPath": "C:\\Users\\ngthu\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJECT_EPU\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\obj\\",
+        "projectPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
+        "packagesPath": "C:\\Users\\Quoc_Thang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ngthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Quoc_Thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\controllers\\thongtinsxdshescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\thongtinsxdshescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -335,10 +339,6 @@
       "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\controllers\\vwdantoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|c:\\users\\quoc_thang\\source\\repos\\vemis_qlhs\\vemis_qlhs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55704A0E-AA4C-413A-A463-F95F99132BB0}|Vemis_QLHS\\Vemis_QLHS.csproj|solutionrelative:vemis_qlhs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -358,11 +358,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ThongTinSxdshesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\ThongTinSxdshesController.cs",
@@ -375,19 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
-              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
-              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
-              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
-              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T17:59:15.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HsXetLenLopsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsXetLenLopsController.cs",
@@ -399,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HsTinhThuongDungsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsTinhThuongDungsController.cs",
@@ -411,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HsThongBaoNhapDiemChiTietMonHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsThongBaoNhapDiemChiTietMonHocsController.cs",
@@ -423,7 +411,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Program.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Program.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Program.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:59:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "RelativeToolTip": "Vemis_QLHS\\Controllers\\HsXetLenLopTruocThiLaiRenLuyenLaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:59:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HsThiDuaTapThesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsThiDuaTapThesController.cs",
@@ -435,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HsSucKhoesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsSucKhoesController.cs",
@@ -447,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HsPhongThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsPhongThisController.cs",
@@ -459,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HsPhanLopsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsPhanLopsController.cs",
@@ -471,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HsNhomThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNhomThisController.cs",
@@ -483,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HsNghiHocDaiHansController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNghiHocDaiHansController.cs",
@@ -495,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HsNgayToChucKyThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsNgayToChucKyThisController.cs",
@@ -507,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HsMonHocSoDauDiemsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMonHocSoDauDiemsController.cs",
@@ -519,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HsMonHocNhomThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMonHocNhomThisController.cs",
@@ -531,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HsLopHocTinHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocTinHocsController.cs",
@@ -543,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HsLopHocMonNgoaiNgusController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonNgoaiNgusController.cs",
@@ -555,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HsLopHocMonMienGiamsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonMienGiamsController.cs",
@@ -567,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HsLopHocMonKhuyenKhichesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonKhuyenKhichesController.cs",
@@ -579,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HsLopHocMonChuyensController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocMonChuyensController.cs",
@@ -591,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HsLopHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsLopHocsController.cs",
@@ -603,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HsKyLuatHocSinhsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKyLuatHocSinhsController.cs",
@@ -615,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "HsKiemTraMucPhiDongGopsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKiemTraMucPhiDongGopsController.cs",
@@ -627,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "HsMucPhiDongGopsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsMucPhiDongGopsController.cs",
@@ -639,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "HsKhoiLopMonMienGiamsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhoiLopMonMienGiamsController.cs",
@@ -651,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "HsKhoiLopMonKhuyenKhichesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhoiLopMonKhuyenKhichesController.cs",
@@ -663,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "HsKhenThuongsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKhenThuongsController.cs",
@@ -675,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonTinhDiemTieuHocsController.cs",
@@ -687,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "HsKetQuaThiLaiMonDanhGiasController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiasController.cs",
@@ -699,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaiMonDanhGiaTieuHocsController.cs",
@@ -711,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "HsKetQuaThiLaisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiLaisController.cs",
@@ -723,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "HsKetQuaThiKhaoSatsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiKhaoSatsController.cs",
@@ -735,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "HsKetQuaThiHocSinhGioisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaThiHocSinhGioisController.cs",
@@ -747,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "HsKetQuaRenLuyenLaiTrongHesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaRenLuyenLaiTrongHesController.cs",
@@ -759,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "HsKetQuaMonKhuyenKhichesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsKetQuaMonKhuyenKhichesController.cs",
@@ -771,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "HsHoSoSuKiensController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoSoSuKiensController.cs",
@@ -783,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "HsHoSoHocSinhsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoSoHocSinhsController.cs",
@@ -795,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "HsHopPhuHuynhsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHopPhuHuynhsController.cs",
@@ -807,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "HsHocSinhSbdsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhSbdsController.cs",
@@ -819,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "HsHocSinhPhongThis1Controller.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThis1Controller.cs",
@@ -831,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "HsHocSinhNhomThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhNhomThisController.cs",
@@ -843,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "HsHocSinhMonMienGiamsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhMonMienGiamsController.cs",
@@ -855,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "HsHocSinhMonKhuyenKhichesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhMonKhuyenKhichesController.cs",
@@ -867,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "HsHocSinhHocLucsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhHocLucsController.cs",
@@ -879,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "HsHocSinhBoThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhBoThisController.cs",
@@ -891,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "HsHocSinhBanHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhBanHocsController.cs",
@@ -903,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "HsHocLucMonsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocLucMonsController.cs",
@@ -915,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocLucHocSinhTruocThiLaiRenLuyenLaisController.cs",
@@ -927,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "HsHoatDongHesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHoatDongHesController.cs",
@@ -939,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "HsHienTaisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHienTaisController.cs",
@@ -951,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "HsHanhKiemTruocRenLuyenLaisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHanhKiemTruocRenLuyenLaisController.cs",
@@ -963,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "HsHanhKiemsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHanhKiemsController.cs",
@@ -975,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsGiaTriDiemDoMonHocKhuyenKhichesController.cs",
@@ -987,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "HsGiaDinhHocSinhsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsGiaDinhHocSinhsController.cs",
@@ -999,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "HsDuLieuDiemThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDuLieuDiemThisController.cs",
@@ -1011,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "HsDmkieuHienThiTensController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDmkieuHienThiTensController.cs",
@@ -1023,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "HsDiemTuyenSinhTrungHocPhoThongsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTuyenSinhTrungHocPhoThongsController.cs",
@@ -1035,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "HsDiemTrungBinhMonHocKiesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonHocKiesController.cs",
@@ -1047,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTrenTieuHocsController.cs",
@@ -1059,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTrungBinhMonDanhGiaTieuHocsController.cs",
@@ -1071,7 +1084,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "HsDiemTongKetHocKiesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemTongKetHocKiesController.cs",
@@ -1083,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "HsDiemThiNghesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiNghesController.cs",
@@ -1095,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "HsDiemThiMonTiengVietCuaTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonTiengVietCuaTieuHocsController.cs",
@@ -1107,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonLichSuVaDiaLyBacTieuHocsController.cs",
@@ -1119,7 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThiMonDanhGiaBacTrenTieuHocsController.cs",
@@ -1131,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "HsDiemThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDiemThisController.cs",
@@ -1143,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "HsDanTocThuongDungsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanTocThuongDungsController.cs",
@@ -1155,7 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "HsDanhSachTuyenSinhsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhSachTuyenSinhsController.cs",
@@ -1167,7 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "HsDanhHieuxController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhHieuxController.cs",
@@ -1179,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDanhGiaHanhKiemThuongXuyenBacTieuHocsController.cs",
@@ -1191,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "HsDangKyOnoiTrusController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyOnoiTrusController.cs",
@@ -1203,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "HsDangKyMonThiLaisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyMonThiLaisController.cs",
@@ -1215,7 +1228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "HsDangKyLopChuyensController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsDangKyLopChuyensController.cs",
@@ -1227,7 +1240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "HsChuyenTruongsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenTruongsController.cs",
@@ -1239,7 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "HsChuyenLopsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenLopsController.cs",
@@ -1251,7 +1264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "HsChuyenCansController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChuyenCansController.cs",
@@ -1263,7 +1276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "HsChiTietNghiHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsChiTietNghiHocsController.cs",
@@ -1275,7 +1288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "HsBoHocThoiHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBoHocThoiHocsController.cs",
@@ -1287,7 +1300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemKiemTraThuongXuyenApDungChoTieuHocsController.cs",
@@ -1299,7 +1312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "HsBangDiemDanhGiaThuongXuyensController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemDanhGiaThuongXuyensController.cs",
@@ -1311,7 +1324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKyMonDanhGiaBacTrenTieuHocsController.cs",
@@ -1323,7 +1336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "HsHocSinhPhongThisController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsHocSinhPhongThisController.cs",
@@ -1335,7 +1348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "HsBangDiemChiTietHocKiesController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\HsBangDiemChiTietHocKiesController.cs",
@@ -1347,7 +1360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "VwDanTocController.cs",
               "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Controllers\\VwDanTocController.cs",
               "RelativeDocumentMoniker": "Vemis_QLHS\\Controllers\\VwDanTocController.cs",
@@ -1368,18 +1381,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-26T15:00:12.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Program.cs",
-              "RelativeDocumentMoniker": "Vemis_QLHS\\Program.cs",
-              "ToolTip": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Program.cs",
-              "RelativeToolTip": "Vemis_QLHS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:59:59.003Z"
             },
             {
               "$type": "Document",

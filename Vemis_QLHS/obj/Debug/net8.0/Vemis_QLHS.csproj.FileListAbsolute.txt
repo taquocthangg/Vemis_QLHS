@@ -759,3 +759,4 @@ C:\PROJECT_EPU\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\scop
 C:\PROJECT_EPU\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\Vemis_QLHS.csproj.Up2Date
 C:\PROJECT_EPU\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\Vemis_QLHS.genruntimeconfig.cache
 C:\PROJECT_EPU\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\ref\Vemis_QLHS.dll
+C:\Users\Quoc_Thang\source\repos\Vemis_QLHS\Vemis_QLHS\obj\Debug\net8.0\Vemis_QLHS.sourcelink.json
