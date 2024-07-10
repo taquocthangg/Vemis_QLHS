@@ -8297,19 +8297,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Quoc_Thang\\.nuget\\packages\\": {}
+    "C:\\Users\\Vu Tien Khoai\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
+      "projectUniqueName": "E:\\project_EPU\\api_vemis\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
       "projectName": "Vemis_QLHS",
-      "projectPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
-      "packagesPath": "C:\\Users\\Quoc_Thang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quoc_Thang\\source\\repos\\Vemis_QLHS\\Vemis_QLHS\\obj\\",
+      "projectPath": "E:\\project_EPU\\api_vemis\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS.csproj",
+      "packagesPath": "C:\\Users\\Vu Tien Khoai\\.nuget\\packages\\",
+      "outputPath": "E:\\project_EPU\\api_vemis\\Vemis_QLHS\\Vemis_QLHS\\Vemis_QLHS\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Quoc_Thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vu Tien Khoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8317,6 +8322,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

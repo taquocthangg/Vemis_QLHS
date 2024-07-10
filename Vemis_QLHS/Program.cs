@@ -4,23 +4,12 @@ using Vemis_QLHS.Entities;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
 builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<VemisStudentContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Vemis")));
-
-// Add CORS service
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAll",
-        builder =>
-        {
-            builder.AllowAnyOrigin()
-                   .AllowAnyHeader()
-                   .AllowAnyMethod();
-        });
-});
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,9 +22,6 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
-// Use CORS
-app.UseCors("AllowAll");
 
 app.MapControllers();
 

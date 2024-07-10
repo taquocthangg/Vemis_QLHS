@@ -40,6 +40,43 @@ namespace Vemis_QLHS.Controllers
 
             return hsHoSoHocSinh;
         }
+        /// <summary>
+        ///Lấy danh sách học sinh
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
+        [HttpGet("listStudentById")]
+        public IActionResult GetListStudents( string? id_truong, string? id_namhoc,string? id_lop)
+        {
+           
+            try
+            {
+                var search= id_truong + id_namhoc+ id_lop  ;
+
+                var hocSinhs = _context.HsHoSoHocSinhs
+                                .AsNoTracking()
+                                .Where(hs => EF.Functions.Like(hs.HocSinhId, "%" + search + "%"))
+                                .ToList();
+
+
+                // Trả về các tham số trong phản hồi
+                var response = new
+                {
+                    
+                    id_truong,
+                    id_lop,
+                    id_namhoc
+                };
+
+                return Ok(hocSinhs);
+
+            }
+            catch (Exception ex)
+            {
+                // Log the exception (consider using a logging framework)
+                return StatusCode(StatusCodes.Status500InternalServerError, "Đã xảy ra lỗi máy chủ.");
+            }
+        }
 
         // PUT: api/HsHoSoHocSinhs/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
